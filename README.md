@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Root-NOT%20REQUIRED-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Size-5.7%20MB-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fitur-15%20-yellow?style=for-the-badge" />
+  <p align="center"> <img src="https://img.shields.io/badge/Made%20with-Java-orange?style=for-the-badge&logo=openjdk" /> <img src="https://img.shields.io/badge/For-Android-green?style=for-the-badge&logo=android" /> <img src="https://img.shields.io/badge/Purpose-Prank-red?style=for-the-badge" /> 
 </p>
 
 <p align="center">
