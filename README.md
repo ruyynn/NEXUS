@@ -18,13 +18,58 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Android-5.0%20--%2014-blue?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/Root-NOT%20REQUIRED-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Size-5.7%20MB-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fitur-15%20-yellow?style=for-the-badge" />
-  <p align="center"> <img src="https://img.shields.io/badge/Made%20with-Java-orange?style=for-the-badge&logo=openjdk" /> <img src="https://img.shields.io/badge/For-Android-green?style=for-the-badge&logo=android" /> <img src="https://img.shields.io/badge/Purpose-Prank-red?style=for-the-badge" /> 
+  <!-- VERSION BADGES -->
+  <img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Release-2026-blue?style=for-the-badge&logo=calendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
+
+<p align="center">
+  <!-- ANDROID BADGES -->
+  <img src="https://img.shields.io/badge/Android-5.0%20--%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-21%20--%2034-FF6B6B?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Root-NOT%20REQUIRED-red?style=for-the-badge&logo=lock&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- SIZE BADGES -->
+  <img src="https://img.shields.io/badge/Size-5.7%20MB-orange?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/Format-APK-FF6F00?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fitur-15%20GACOR-yellow?style=for-the-badge&logo=fire&logoColor=black" />
+</p>
+
+<p align="center">
+  <!-- SOCIAL BADGES -->
+  <img src="https://img.shields.io/badge/Downloads-23%2B-blue?style=for-the-badge&logo=download&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rating-3.8%2F5-gold?style=for-the-badge&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=active&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- CODING BADGES -->
+  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-15000%2B%20lines-blue?style=for-the-badge&logo=sourceforge&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- WARNING BADGES -->
+  <img src="https://img.shields.io/badge/WARNING-DANGEROUS-red?style=for-the-badge&logo=warning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Purpose-PRANK%20ONLY-important?style=for-the-badge&logo=joke&logoColor=white" />
+  <img src="https://img.shields.io/badge/Legal-RISK%20YOURSELF-critical?style=for-the-badge&logo=gavel&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Java-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/For-Android-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Purpose-Prank-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-UNLICENSE-lightgrey?style=for-the-badge&logo=unlicense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Disclaimer-READ%20FIRST-critical?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=16&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=%E2%80%BC%EF%B8%8F+GUNAKAN+DI+HP+BEKAS%EF%B8%8F;%E2%80%BC%EF%B8%8F+JANGAN+DI+HP+UTAMA%EF%B8%8F;%E2%80%BC%EF%B8%8F+RESIKO+TANGGUNG+SENDIRI%EF%B8%8F" alt="Warning SVG" />
