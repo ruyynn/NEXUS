@@ -1,0 +1,2 @@
+ngapain bang??? beli kontol lu kira free?
+ v ftyui8y7t6rxfg vbn12jnkouw8ewfyd cjkq  ojpx ihgey2u2eg712t74cfe3hqwvhxebjwjadhcye82y378vr72 17 3uycu7 287q3 78y878qrz328iu qd8h238ry78 2yv yryc281ny1qm1zui8  32ih3ihiugus7yn3287nrxunfeugrygwyewhvhvzjyfegu23gq74y2qy63461  12y3781t4328ru923ipro-[pcrkwokxkmqwx eu qw zhen8qwunzeuhnuqwdnuxhnjwryqycgn fhdgmwudfxqwhxqucgnu2wmpzd,uiawiuzdbhqwg d qdgeuzyqdhwhzevabvyegry2g7q3yr8r812uy83yr732y7tr32xubesbafnbxs nc nb chHVHQGIUO  iuhi  wuqgrcug2yurgviifcu2xnuiy2c3rvbbuyrb7cwqnfneuweuhg2ui7f7ywe
